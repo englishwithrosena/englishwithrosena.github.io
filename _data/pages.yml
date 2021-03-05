@@ -1,4 +1,5 @@
 pages:
   - {name: '歸檔', url: 'archive.html'}
+  - {name: '類別', url: 'categories.html'}
   - {name: '聯繫我', url: 'contact.html'}
   - {name: '關於', url: 'about.html'}
