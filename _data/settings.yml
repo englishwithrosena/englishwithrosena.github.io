@@ -4,7 +4,7 @@ analytics-id: #leave blank to not use Analytics
 #Subtitle
 subtitle:
   active: true
-  text: Yet Another Minimal Theme
+  text: 最好的機會還在等著我
 
 #Nav 
 nav:
@@ -32,7 +32,7 @@ mathjax:
 #Show related posts based on categories
 related-posts:
   active: true
-  title: "You May Also Enjoy"
+  title: "你可能也會關注"
 
 #Comments
 comments: true
